@@ -1,4 +1,4 @@
-# Algorithm for Scraping, Downloading, and Processing YouTube Baby Videos with YOLOv8 (CNN Arch)
+# Algorithm for Scraping, Downloading, and Processing YouTube Videos with YOLOv11 (CNN Arch)
 
 ## 1. Initialization
 
